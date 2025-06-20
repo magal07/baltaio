@@ -12,3 +12,4 @@ C:\dev\baltaio\obj\Debug\net9.0\refint\baltaio.dll
 C:\dev\baltaio\obj\Debug\net9.0\baltaio.pdb
 C:\dev\baltaio\obj\Debug\net9.0\baltaio.genruntimeconfig.cache
 C:\dev\baltaio\obj\Debug\net9.0\ref\baltaio.dll
+C:\dev\baltaio\obj\Debug\net9.0\baltaio.sourcelink.json

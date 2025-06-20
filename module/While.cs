@@ -2,9 +2,9 @@
 
 namespace MeuApp
 {
-  class Program
+  class While
   {
-    static void Main(string[] args)
+    static void WhileMain(string[] args)
     {
       int value = 0;
       while (value <= 100)
