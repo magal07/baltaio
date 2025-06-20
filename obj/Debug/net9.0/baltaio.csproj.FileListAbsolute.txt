@@ -1,0 +1,14 @@
+C:\dev\baltaio\bin\Debug\net9.0\baltaio.exe
+C:\dev\baltaio\bin\Debug\net9.0\baltaio.deps.json
+C:\dev\baltaio\bin\Debug\net9.0\baltaio.runtimeconfig.json
+C:\dev\baltaio\bin\Debug\net9.0\baltaio.dll
+C:\dev\baltaio\bin\Debug\net9.0\baltaio.pdb
+C:\dev\baltaio\obj\Debug\net9.0\baltaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\baltaio\obj\Debug\net9.0\baltaio.AssemblyInfoInputs.cache
+C:\dev\baltaio\obj\Debug\net9.0\baltaio.AssemblyInfo.cs
+C:\dev\baltaio\obj\Debug\net9.0\baltaio.csproj.CoreCompileInputs.cache
+C:\dev\baltaio\obj\Debug\net9.0\baltaio.dll
+C:\dev\baltaio\obj\Debug\net9.0\refint\baltaio.dll
+C:\dev\baltaio\obj\Debug\net9.0\baltaio.pdb
+C:\dev\baltaio\obj\Debug\net9.0\baltaio.genruntimeconfig.cache
+C:\dev\baltaio\obj\Debug\net9.0\ref\baltaio.dll

@@ -1,0 +1,73 @@
+## Compilados binários
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+*.app
+*.lib
+*.so
+*.dylib
+
+## Arquivos de log e temporários
+*.log
+*.tmp
+
+## Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider (JetBrains)
+.idea/
+*.sln.iml
+
+## Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Pacotes
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+## Cache e arquivos gerados automaticamente
+*.pidb
+*.svclog
+*.scc
+_ReSharper*/
+*.DotSettings.user
+
+## Testes
+TestResults/
+*.coverage
+*.coveragexml
+
+## Dados do build
+Generated\ Files/
+
+## Outras extensões específicas
+*.dbmdl
+*.bak
+*.orig
+
+# Configurações locais
+local.settings.json
+
+# Configurações secretas
+secrets.json
+.env
+.env.*
+
+# Logs de ferramenta
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
