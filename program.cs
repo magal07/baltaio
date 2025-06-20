@@ -6,23 +6,29 @@ namespace MeuApp
   {
     static void Main(string[] args)
     {
-      MyMethod();
-      string name = FullName("Marcelo", "Magalhães", 26);
-      Console.WriteLine(name);
-      Console.WriteLine(FullName("Balta", "IO"));
-    }
-    static void MyMethod()
-    {
-      Console.WriteLine("C# is great!");
-    }
+      // int x = 25;
+      // int y = x;
+      // Console.WriteLine(x);
+      // Console.WriteLine(y);
+      // x = 32;
+      // Console.WriteLine(x);
+      // Console.WriteLine(y);
+      // type value /\ 
 
-    static string FullName(
-    string name,
-    string surname,
-    int age = 0
-    )
-    {
-      return name + " " + surname + " have " + age.ToString() + " years!";
+      // reference type \/ 
+      var arr = new string[2];
+      arr[0] = "Item 1";
+
+      var arr2 = arr;
+
+      Console.WriteLine(arr[0]);
+      Console.WriteLine(arr[0]);
+
+      arr[0] = "Item Alter";
+
+      Console.WriteLine(arr[0]);
+      Console.WriteLine(arr2[0]);
+
     }
   }
 }
