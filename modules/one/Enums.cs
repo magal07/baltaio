@@ -2,9 +2,9 @@
 
 namespace MeuApp
 {
-  class Program
+  class Enums
   {
-    static void Main(string[] args)
+    static void EnumsMain(string[] args)
     {
       Product mouse = new Product(1, "Mouse Gamer", 299.32, EProductType.Product);
       Product energyMaintence = new Product(2, "Residencial Energy Maintence", 100.02, EProductType.Service);

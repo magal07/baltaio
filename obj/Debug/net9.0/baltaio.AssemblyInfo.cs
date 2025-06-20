@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("baltaio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f839dfff776ebac147a3364c9ad8b60d01c5c128")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca7a398dee939f57e4db0b8828f06a65344e6752")]
 [assembly: System.Reflection.AssemblyProductAttribute("baltaio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("baltaio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
