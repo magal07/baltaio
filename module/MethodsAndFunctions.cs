@@ -2,9 +2,9 @@
 
 namespace MeuApp
 {
-  class Program
+  class MethodsAndFunctions
   {
-    static void Main(string[] args)
+    static void MethodsAndFunctionsMain(string[] args)
     {
       MyMethod();
       string name = FullName("Marcelo", "Magalhães", 26);
